@@ -1,5 +1,3 @@
-javascript
-
 // MENU MOBILE
 const menuToggle = document.getElementById('menuToggle');
 const navLinks = document.querySelector('.nav-links');
@@ -18,7 +16,7 @@ document.querySelectorAll('.nav-links a').forEach(link => {
 // FORMULAIRE DE CONTACT
 const contactForm = document.getElementById('contactForm');
 const formConfirmation = document.getElementById('formConfirmation');
-const numeroWhatsApp = "22671085998"; // Numéro Ouinzin Livraison
+const numeroWhatsApp = "22606585761"; // Numéro Ouinzin Livraison
 
 contactForm.addEventListener('submit', function (e) {
   e.preventDefault();
